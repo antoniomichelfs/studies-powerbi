@@ -31,5 +31,7 @@
 * Instrutor: David Neves
 * Projeto Desenvolvido:
     * Tratamento de dados de um e-commerce (Olist)
-    * Material: https://cdn3.gnarususercontent.com.br/2956-power-bi-desktop/Projetos/PowerBI-PowerQuery-Aula1-Material.zip
+    * Material:
+        *  https://cdn3.gnarususercontent.com.br/2956-power-bi-desktop/Projetos/PowerBI-PowerQuery-Aula1-Material.zip
+        * https://cdn3.gnarususercontent.com.br/2956-power-bi-desktop/Projetos/power_query_dump.sql
     
